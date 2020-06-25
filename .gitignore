@@ -1,0 +1,11 @@
+**/.idea
+**.iml
+**.class
+**.kotlin_module
+**.gzip
+**.json
+**.data
+**/target
+**/stackoverflow/*.xml
+**.db
+**.csv
